@@ -1,6 +1,0 @@
-{
-  "ai_provider": "GEMINI",
-  "ai_key": "",
-  "model": "gemini-2.0-flash",
-  "theme": "bleu"
-}
