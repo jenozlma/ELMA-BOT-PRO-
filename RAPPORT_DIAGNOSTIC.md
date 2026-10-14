@@ -1,0 +1,1 @@
+Vérifications effectuées pour cette archive : inventaire des sources, présence des PNG, contrôle du JSON d'exemple, inspection statique des ressources et du manifeste. Limite : pas de compilation Gradle/Android SDK ni de test sur appareil dans l'environnement de préparation. Voir README_COMPLET_FR.md.
